@@ -27,7 +27,7 @@
 | ------------------------------- | --------------------------------------- | ---------------------------------------------- |
 | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Sales Reports](screenshots/sales_report.png) |
 | Add Cashier                                 | Add Products                                  | Cashier's Portal                                      |
-| ------------------------------- | --------------------------------------- | ---------------------------------------------- |
+|  |  | |
 | ![Add Cashier](screenshots/add_cashier.png) | ![Add Products](screenshots/add_products.png) | ![Cashier's Portal](screenshots/cashier's_portal.png) |
 
 
