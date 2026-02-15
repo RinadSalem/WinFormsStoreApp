@@ -6,7 +6,7 @@
 
 > ⚠️ **Note:** This is an older project I wrote during my early university days while learning desktop application development. The code reflects my learning process at that time.
 
----
+
 
 ## 🖥 Features
 
@@ -17,7 +17,7 @@
 * Login system with basic authentication
 * Data displayed in tables using `DataGridView`
 
----
+
 
 ## 🖼 Screenshots
 
@@ -31,9 +31,9 @@
 | ![Add Cashier](screenshots/add_cashier.png) | ![Add Products](screenshots/add_products.png) | ![Cashier's Portal](screenshots/cashier's_portal.png) |
 
 
-> 💡 Make sure your screenshots are inside the `screenshots/` folder with matching names.
 
----
+
+
 
 ## ⚙️ Project Structure (Main Forms)
 
@@ -44,7 +44,7 @@
 * `Form5.cs` – Cashier Management
 * `Form6.cs` – Product Management
 
----
+
 
 ## 🛠 Technologies
 
@@ -53,7 +53,7 @@
 * Entity Framework (Database connection)
 * SQL Server / LocalDB
 
----
+
 
 ## 🔧 Setup
 
@@ -66,7 +66,7 @@
 3. Restore NuGet packages if needed.
 4. Build and run the project.
 
----
+
 
 ## 📝 Notes
 
