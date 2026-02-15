@@ -21,13 +21,15 @@
 
 ## 🖼 Screenshots
 
-| Dashboard                               | Sales Reports                                  | Add Cashier                                |
-| --------------------------------------- | ---------------------------------------------- | ------------------------------------------ |
-| ![Dashboard](screenshots/dashboard.png) | ![Sales Reports](screenshots/sales_report.png) | ![Add Cashier](screenshots/add_cashier.png) |
 
-| Add Products                                 | Login                           | Register                              |
-| -------------------------------------------- | ------------------------------- | ------------------------------------- |
-| ![Add Products](screenshots/add_products.png) | ![Login](screenshots/login.png) | ![Cashier's Portal](screenshots/cashier's_portal.png) |
+
+| Login                           | Dashboard                               | Sales Reports                                  |
+| ------------------------------- | --------------------------------------- | ---------------------------------------------- |
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Sales Reports](screenshots/sales_report.png) |
+| Add Cashier                                 | Add Products                                  | Cashier's Portal                                      |
+| ------------------------------------------- | --------------------------------------------- | ----------------------------------------------------- |
+| ![Add Cashier](screenshots/add_cashier.png) | ![Add Products](screenshots/add_products.png) | ![Cashier's Portal](screenshots/cashier's_portal.png) |
+
 
 > 💡 Make sure your screenshots are inside the `screenshots/` folder with matching names.
 
